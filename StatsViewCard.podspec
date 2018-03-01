@@ -19,7 +19,7 @@ LICENSE
 }
   s.author             = { "Manikanta" => "nanirocks125@gmail.com" }
 
-   s.platform     = :ios, "11.0"
+   s.platform     = :ios, "10.3"
 
 
   s.source       = { :git => "https://github.com/nanirocks125/StatsView.git", :tag => "1.0.0" }
